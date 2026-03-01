@@ -1639,8 +1639,9 @@ blockquote {
 }
 
 .about-photo {
-  grid-area: span 1 / span 7 / span 1 / span 7;
-  align-self: start;
+  grid-area: 3 / 1 / 4 / 8;
+  align-self: end;
+  margin-bottom: 45px;
 }
 
 #w-node-f069139a-643f-e0fb-682e-96599d3d3974-ea14f80d {
@@ -1727,6 +1728,7 @@ blockquote {
 
 .about-photo-img {
   width: 100%;
+  max-height: 500px;
   object-fit: contain;
 }
 

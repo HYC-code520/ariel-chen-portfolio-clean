@@ -308,7 +308,8 @@ blockquote {
   height: 100%;
 }
 
-.intro-image-container .work-image {
+.intro-image-container .work-image,
+.work-image-list .work-image {
   background-position: top center;
 }
 

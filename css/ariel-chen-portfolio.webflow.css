@@ -874,6 +874,10 @@ blockquote {
   .cursor-container {
     display: none;
   }
+
+  .intro-image-container + .work-scroll-wrap {
+    display: none;
+  }
 }
 
 @media screen and (max-width: 479px) {
@@ -1453,12 +1457,12 @@ blockquote {
     align-self: start;
   }
 
-  #w-node-_0726a4d7-78e0-4e24-70b7-5ed6c6f987bd-ea14f80d {
-    grid-area: 3 / 5 / 4 / 13;
+  #w-node-f069139a-643f-e0fb-682e-96599d3d3979-ea14f80d {
+    grid-area: 3 / 1 / 4 / 13;
   }
 
-  #w-node-f069139a-643f-e0fb-682e-96599d3d3979-ea14f80d {
-    grid-area: span 1 / span 8 / span 1 / span 8;
+  #w-node-_0726a4d7-78e0-4e24-70b7-5ed6c6f987bd-ea14f80d {
+    grid-area: 4 / 1 / 5 / 13;
   }
 
   #w-node-_39b412bf-83ee-87b8-a57d-0bc36a17b76f-ea14f80d, #w-node-_608331e4-e034-20a9-05cf-9b0623801ad8-ea14f80d {

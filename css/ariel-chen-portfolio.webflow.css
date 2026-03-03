@@ -919,6 +919,10 @@ blockquote {
     display: none;
   }
 
+  .footer .scroll-anchor-link {
+    display: flex;
+  }
+
   .top-margin---large-space {
     margin-top: 85px;
   }
@@ -942,12 +946,7 @@ blockquote {
   }
 
   .fooer-link-list {
-    grid-column-gap: 20px;
-    grid-row-gap: 20px;
-    grid-template-rows: auto;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-auto-columns: 1fr;
-    display: grid;
+    display: none;
   }
 
   .top-margin---extra-large-space {

@@ -1689,6 +1689,7 @@ blockquote {
 
 .intro-image-container {
   margin-top: 40px;
+  display: none;
 }
 
 .container.top-margin---medium-space:empty {
